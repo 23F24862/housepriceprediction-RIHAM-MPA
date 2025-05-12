@@ -1,8 +1,6 @@
-# 🏡 House Price Prediction App
+# 🏡 House Price Prediction 
 
-A Streamlit web application that predicts house prices based on user input such as area, number of bedrooms, bathrooms, and other property features.
-
-This app demonstrates the application of data mining and predictive analytics using regression modeling.
+(vi) Demonstrate the model deployment by designing a user interface
 
 > 🔗 **Live Demo**: [Click here to open the app on Streamlit](https://housepriceprediction-riham-mpa-x3a9pi9akxmx7vdjokypvk.streamlit.app)
 
