@@ -17,10 +17,10 @@ This project was developed as part of the course:
 - **Student ID**: 23F24862  
 - **Name**: RIHAM SALEH SULAIMAN AL BALUSHI  
 
-The application uses a trained `RandomForestRegressor` model to estimate house prices based on features such as:
-- Area (sqft)
-- Number of bedrooms and bathrooms
-- Number of stories
-- Availability of guestroom, basement, air conditioning, etc.
+# 🗂️ Dataset Source
+
+**Title:** Housing Price Prediction  
+**Author:** Harish Kumardatalab  
+**Source:** [Kaggle – Housing Price Prediction Dataset](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)  
 
 ---
